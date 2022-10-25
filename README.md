@@ -8,16 +8,20 @@ Bon Appetit!
 
 ![image](https://user-images.githubusercontent.com/93103705/197274054-ef0b9a9f-4329-4a73-be4d-7ba98aa47e87.png)
 
-![image](https://user-images.githubusercontent.com/94158648/197665009-fe5b294d-e5ad-46d3-98f2-694120cfa4f5.png)
-
-Bon Appétit: Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!  Smell the aroma, create taste to your liking, devour meals you love and enjoy! List of Ingredients and Instructions to create delicious meals all at your finger tips. Take a peek and put a touch or pinch of whatever to make it your very own :)
-
 # Delicious Recipes to your delight
 Bon Appétit! Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends! 
 
 Smell the aroma, create taste to your liking, devour meals you love and enjoy! 
 
+![image](https://user-images.githubusercontent.com/94158648/197668409-2821da51-b1d6-447e-86f1-a4442d8a084f.png)
+
+![image](https://user-images.githubusercontent.com/94158648/197668604-4baad64f-c021-44d2-a01c-5c2d9aeefe55.png)
+
+
 ![wide-middle-eastern-food](https://user-images.githubusercontent.com/94158648/141925708-5e0eeef7-bc15-4913-aa6a-c52c8e9572d1.jpg)
+
+Bon Appétit: Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!  Smell the aroma, create taste to your liking, devour meals you love and enjoy! List of Ingredients and Instructions to create delicious meals all at your finger tips. Take a peek and put a touch or pinch of whatever to make it your very own :)
+
 
 List of Ingredients and Instructions to create delicious meals all at your finger tips. 
 
@@ -25,13 +29,16 @@ Take a peek and put a touch or pinch of whatever to make it your very own :)
 
 ![Ashenda Tigray](https://user-images.githubusercontent.com/94158648/142278055-6b75684a-9ebe-4e90-8e20-d4fc7d16d7e4.jpg)
 
-# Recipes by Genet's TIGRAY RESTAURANT: 
+# Delicious Delicacies by GENET'S TIGRAY RESTAURANT:
 ![Tihilo](https://user-images.githubusercontent.com/94158648/142278022-d6ae65f6-3c4d-4879-9161-55d9c3003ac6.jpg)
 Genet's Favorite Traditional Dishes from her hometown of Adigrat, Tigray: Tihilo
 
 'Tihlo (Tigrinya: ቲህሎ) is a dish from the historical Agame province in Northern most parts of Ethiopia that consists of barley dough balls covered with meat and berbere (berbere is made of chili after is is dried and powdered) based sauce often served as a snack. Tihlo is commonly consumed as a side dish or snack, especially in Ethiopia's northern communities, specifically the Tigray people. The barley grain is completely dehulled and milled. Tihlo is made using moistened roasted barley flour that is kneaded to a uniform consistency. The dough is then broken into small balls and laid out around a bowl of spicy meat stew. A two-pronged wooden fork is used to spear the ball and dip it into the stew. Tihlo is commonly served on cultural holidays.'
 
 # Potato and Cabbage Dish. Inexpensive ingredients, but healthy, rich in flavor, texture and Tumeric aroma - A soup and A stew!
+
+![image](https://user-images.githubusercontent.com/94158648/197665009-fe5b294d-e5ad-46d3-98f2-694120cfa4f5.png)
+
 Served Vegan or add a bit of meat for meat lovers - Perfect combination.
 
 Other Healthy Meals to Fuel Your Day:
@@ -63,7 +70,7 @@ Other Healthy Meals to Fuel Your Day:
 # Additional Recipes for you to Enjoy with your Family and Friends!
 ![Long table dinner](https://user-images.githubusercontent.com/94158648/142280899-670f7bda-0b62-4bb4-8fa4-c9520bb0c6ae.jpg)
 
-# Recipes by Chief Marissa:
+# Delicious Delicacies by MARISSA's Chief Restraurant:
 
 ![MarissaChefOutfit](https://user-images.githubusercontent.com/93103705/144161901-c32657a9-3b1f-4560-903c-017356fac8cd.jpg)
 
@@ -101,7 +108,7 @@ Other Healthy Meals to Fuel Your Day:
 ![desserts](https://user-images.githubusercontent.com/94158648/142275404-23fcfadc-feb8-4130-99e6-c6096daedace.jpg)
 
 
-# Mexican + Samoa Remix Delight by Nicholas:
+# Mexican + Samoa Remix Nicholas's Delight Restaurant:
 ![Samoan-People-and-Their-Culture-1](https://user-images.githubusercontent.com/94158648/142278208-243bb295-1f4f-4593-b08d-7ec1adf4a0bf.jpg)
 
 ![Samoan Culture 2](https://user-images.githubusercontent.com/94158648/146057157-f25487b0-cb2e-43ab-a751-465d2267159c.jpg)
@@ -154,7 +161,7 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 ![Samoan](https://user-images.githubusercontent.com/94158648/142279443-5da67092-563b-45be-be3a-28aec3c72776.jpg)
 
-# Wok-It-Out with Jomar
+# Wok-It-Out with Jomar's Restaurant
 
 # DIG IN!
 

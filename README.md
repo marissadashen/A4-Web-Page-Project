@@ -1,7 +1,7 @@
 ### A4-Web-Page-Project
 Group 2 Assignment 4
 
-This web page shares reviews of some new restaraunts that have recently opened. Everything from food quality to staff friendliness will be discussed.
+This web page shares reviews of some new restaurants that have recently opened. Everything from food quality to staff friendliness will be discussed.
 We hope you enjoy reading our detailed reviews. 
 
 Bon Appetit!

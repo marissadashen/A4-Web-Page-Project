@@ -38,7 +38,8 @@ Genet's Favorite Traditional Dishes from her hometown of Adigrat, Tigray:
 
 'Tihlo (Tigrinya: ቲህሎ) is a dish from the historical Agame province in Northern most parts of Ethiopia that consists of barley dough balls covered with meat and berbere (berbere is made of chili after is is dried and powdered) based sauce often served as a snack. Tihlo is commonly consumed as a side dish or snack, especially in Ethiopia's northern communities, specifically the Tigray people. The barley grain is completely dehulled and milled. Tihlo is made using moistened roasted barley flour that is kneaded to a uniform consistency. The dough is then broken into small balls and laid out around a bowl of spicy meat stew. A two-pronged wooden fork is used to spear the ball and dip it into the stew. Tihlo is commonly served on cultural holidays.'
 
-# Potato and Cabbage Dish. Inexpensive ingredients, but healthy, rich in flavor, texture and Tumeric aroma - A soup and A stew!
+# Potato and Cabbage Dish 
+Inexpensive ingredients, but healthy, rich in flavor, texture and Tumeric aroma - A soup and A stew!
 
 ![image](https://user-images.githubusercontent.com/94158648/197665009-fe5b294d-e5ad-46d3-98f2-694120cfa4f5.png)
 

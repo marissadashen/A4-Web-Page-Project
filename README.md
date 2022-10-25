@@ -63,7 +63,7 @@ Other Healthy Meals to Fuel Your Day:
 # Additional Recipes for you to Enjoy with your Family and Friends!
 ![Long table dinner](https://user-images.githubusercontent.com/94158648/142280899-670f7bda-0b62-4bb4-8fa4-c9520bb0c6ae.jpg)
 
-# Recipes by Chief Marissa:
+# FINE DINING CHEF MARISSA:
 
 ![MarissaChefOutfit](https://user-images.githubusercontent.com/93103705/144161901-c32657a9-3b1f-4560-903c-017356fac8cd.jpg)
 

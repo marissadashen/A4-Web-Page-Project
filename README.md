@@ -12,11 +12,10 @@ Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!  Smell 
 
 ![image](https://user-images.githubusercontent.com/94158648/197680406-9e23fc99-22cd-49f1-b85d-5ea882dcdfc4.png)
 
-![image](https://user-images.githubusercontent.com/94158648/197680255-82cbe7f0-6d04-455a-8991-2891a7f3dd63.png)
-
-
 # Delicious Recipes to your delight
 Bon Appétit! Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends! Smell the aroma, create taste to your liking, devour meals you love and enjoy! 
+
+![image](https://user-images.githubusercontent.com/94158648/197680255-82cbe7f0-6d04-455a-8991-2891a7f3dd63.png)
 
 ![wide-middle-eastern-food](https://user-images.githubusercontent.com/94158648/141925708-5e0eeef7-bc15-4913-aa6a-c52c8e9572d1.jpg)
 

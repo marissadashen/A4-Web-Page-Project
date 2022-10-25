@@ -8,9 +8,10 @@ Bon Appetit!
 
 ![image](https://user-images.githubusercontent.com/93103705/197274054-ef0b9a9f-4329-4a73-be4d-7ba98aa47e87.png)
 
-# Delicious Recipes to your delight
-Bon Appétit! Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends! 
+# Greatest Restaurants + Delicious Recipes To Your Delight
+Bon Appétit! Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!
 
+# Ever been to China, Ethiopia, Mexico, Samoa or the USA? Ever try any of their delicacies? Well, search no further!
 Smell the aroma, create taste to your liking, devour meals you love and enjoy! 
 
 ![image](https://user-images.githubusercontent.com/94158648/197668409-2821da51-b1d6-447e-86f1-a4442d8a084f.png)

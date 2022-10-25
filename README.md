@@ -30,9 +30,11 @@ Take a peek and put a touch or pinch of whatever to make it your very own :)
 
 ![Ashenda Tigray](https://user-images.githubusercontent.com/94158648/142278055-6b75684a-9ebe-4e90-8e20-d4fc7d16d7e4.jpg)
 
-# Delicious Delicacies by GENET'S TIGRAY RESTAURANT:
+# Delicious Delicacies by GENET'S TIGRAY Restaurant:
+
 ![Tihilo](https://user-images.githubusercontent.com/94158648/142278022-d6ae65f6-3c4d-4879-9161-55d9c3003ac6.jpg)
-Genet's Favorite Traditional Dishes from her hometown of Adigrat, Tigray: Tihilo
+Genet's Favorite Traditional Dishes from her hometown of Adigrat, Tigray: 
+# Tihilo
 
 'Tihlo (Tigrinya: ቲህሎ) is a dish from the historical Agame province in Northern most parts of Ethiopia that consists of barley dough balls covered with meat and berbere (berbere is made of chili after is is dried and powdered) based sauce often served as a snack. Tihlo is commonly consumed as a side dish or snack, especially in Ethiopia's northern communities, specifically the Tigray people. The barley grain is completely dehulled and milled. Tihlo is made using moistened roasted barley flour that is kneaded to a uniform consistency. The dough is then broken into small balls and laid out around a bowl of spicy meat stew. A two-pronged wooden fork is used to spear the ball and dip it into the stew. Tihlo is commonly served on cultural holidays.'
 
@@ -77,7 +79,6 @@ Other Healthy Meals to Fuel Your Day:
 
 ![hasenpfeffer stew](https://user-images.githubusercontent.com/93103705/144162388-3c368475-8c56-4bb8-89e9-8ff413831d08.jpg)
 
-
 [Rabbit Stew Recipe](https://github.com/marissadashen/Hasenpfeffer-Rabbit-Stew.git)
 
 ![yakh-dar-behesht Rosewater Custard](https://user-images.githubusercontent.com/93103705/144162439-5c312455-31fc-4f28-938d-9eb412707041.jpg)
@@ -109,7 +110,8 @@ Other Healthy Meals to Fuel Your Day:
 ![desserts](https://user-images.githubusercontent.com/94158648/142275404-23fcfadc-feb8-4130-99e6-c6096daedace.jpg)
 
 
-# Mexican + Samoa Remix Nicholas's Delight Restaurant:
+# NICHOLAS'S Mexican + Samoa Remix Delight Restaurant:
+
 ![Samoan-People-and-Their-Culture-1](https://user-images.githubusercontent.com/94158648/142278208-243bb295-1f4f-4593-b08d-7ec1adf4a0bf.jpg)
 
 ![Samoan Culture 2](https://user-images.githubusercontent.com/94158648/146057157-f25487b0-cb2e-43ab-a751-465d2267159c.jpg)
@@ -162,11 +164,11 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 ![Samoan](https://user-images.githubusercontent.com/94158648/142279443-5da67092-563b-45be-be3a-28aec3c72776.jpg)
 
-# Wok-It-Out with Jomar's Restaurant
-
-# DIG IN!
+# JOMAR'S 'WOK-IT-OUT' Restaurant
 
 ![Serving Dinner](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
+
+# DIG IN!
 
 ![Family_eating_meal_together_skynesher_Getty_Images](https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
 

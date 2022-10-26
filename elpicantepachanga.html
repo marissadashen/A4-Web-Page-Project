@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>Restaurant Reviewer</title>
+  <meta name="robots" content="noindex,nofollow" />
+  <meta name="viewport" content="width=device-width" />
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="css/review.css" />
+  <link rel="stylesheet" href="css/nav.css" />
+ </head>
+ <body>
+     <header>
+     <h1>Reviews and Recipes</h1>
+     <nav class="topnav" id="myTopnav">
+       <a href="index.html">Welcome</a>
+       <a href="restaurant1.html">Restaurant 1</a>
+       <a href="restaurant2.html">Restaurant 2</a>
+       <a href="restaurant3.html">Restaurant 3</a>
+       <a href="elpicantepachanga.html" class="active">El Picante Pachanga</a>
+     </nav>
+     </header>
+     
+   <div class="wrapper">
+     
+     <img class="desktop" src="images/picante.png" alt="Photo of peppers" />
+              
+       <h2 class="recipe">Recipe</h2>
+            <h3 class="name">Flan</h3>
+            
+            <h3 class="ingredients">Ingredients</h3>
+                <ul>
+                    <li>1/2 cup sugar</li>
+                    <li>6 eggs</li>
+                    <li>3 cups whole milk</li>
+                    <li>1½ teaspoon vanilla</li>
+                    <li>1 teaspoon orange rind</li>
+                </ul>
+            
+            <h3 class="instructions">Instructions</h3>
+                <p>Heat ½ cup sugar in a skillet, stirring constantly until it melts. It will turn a dark golden color. Remove from heat. Immediately pour the melted sugar into a round tart pan or round pie pan. Swirl it around the pan to evenly coat the bottom. In a large bowl, beat the eggs. To the bowl, add milk (or half and half), ½ cup sugar, vanilla, and orange peel. For the water bath: Place a large roasting pan on an oven rack. Inside the roasting pan, add the caramel coated pan to the center. Pour egg mixture into the caramel coated pan. Run the tap water until it gets hot. Carefully add the hot tap water in the roasting pan and around the uncooked flan pan to a depth of 1 inch. Bake at 325 F for close to l hour, or until a knife comes out clean. Cool the flan on a wire rack. Then chill for at least 3½ hours. To unmold the flan: Use a spatula and gently go around the sides of the pan. Place the serving platter over the pan. Flip the pan and the platter and allow the flan to come down. Spoon any of the caramel that may remain in the pan on top of the flan. Slice and Enjoy!</p>
+       
+       <h2 class="reviews">Reviews</h2>
+
+          <p>Heat ½ cup sugar in a skillet, stirring constantly until it melts. It will turn a dark golden color. Remove from heat. Immediately pour the melted sugar into a round tart pan or round pie pan. Swirl it around the pan to evenly coat the bottom. In a large bowl, beat the eggs. To the bowl, add milk (or half and half), ½ cup sugar, vanilla, and orange peel. For the water bath: Place a large roasting pan on an oven rack. Inside the roasting pan, add the caramel coated pan to the center. Pour egg mixture into the caramel coated pan. Run the tap water until it gets hot. Carefully add the hot tap water in the roasting pan and around the uncooked flan pan to a depth of 1 inch. Bake at 325 F for close to l hour, or until a knife comes out clean. Cool the flan on a wire rack. Then chill for at least 3½ hours. To unmold the flan: Use a spatula and gently go around the sides of the pan. Place the serving platter over the pan. Flip the pan and the platter and allow the flan to come down. Spoon any of the caramel that may remain in the pan on top of the flan. Slice and Enjoy!</p>
+  </div>
+     
+  <!-- Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon -->
+     
+  <script>
+    //https://tinyurl.com/dynamic-html-checker
+    document.getElementById("html-checker").setAttribute("href","https://validator.w3.org/nu/?doc=" + location.href);
+      
+    document.getElementById("css-checker").setAttribute("href","https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);  
+    
+    //manages mobile nav 
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }   
+ </script>
+     
+ </body>
+</html>

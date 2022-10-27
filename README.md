@@ -159,7 +159,7 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 # DIG IN!
 
-![Pork Xiao Long Bao](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
+![image](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
 
 ![Choco Xiao Long Bao]([https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
 

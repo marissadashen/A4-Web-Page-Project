@@ -161,13 +161,13 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 ![image](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
 
-![Choco Xiao Long Bao]([https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
+![image]([https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
 
-![Salted Egg Yolk Bun]([https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg)
+![image]([https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg)
 
-![Pork & Shrimp Wonton]([https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg)
+![image]([https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg)
 
 
-![Pork & Shrimp Siomai]([https://user-images.githubusercontent.com/94158648/142270622-5e038caa-10f3-4cf9-80b0-0aaeee4fe47c.jpg)
+![image]([https://user-images.githubusercontent.com/94158648/142270622-5e038caa-10f3-4cf9-80b0-0aaeee4fe47c.jpg)
 
 

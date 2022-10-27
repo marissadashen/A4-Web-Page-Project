@@ -35,7 +35,6 @@ p {
 
 h2.subheader {
     font-weight: normal;
-    margin-left: 1em;
     line-height: 1em;
     color: darkolivegreen;
 }
@@ -43,7 +42,6 @@ h2.subheader {
 h2.recipe {
     font-size: 3em;
     font-weight: normal;
-    margin-left: 1em;
     line-height: 1em;
     color: darkolivegreen;
 }
@@ -59,22 +57,21 @@ h2.reviews {
 h3.name {
     font-size: 2em;
     font-weight: normal;
-    margin-left: 1em;
     line-height: 1em;
     color: grey;
 }
 
 h3.ingredients {
+    font-size: 2em;
     font-weight: normal;
-    margin-left: 1em;
     line-height: 1em;
     color: darkolivegreen;
 }
 
 h3.instructions {
+    font-size: 2em;
     font-weight: normal;
-    padding-left:  10em;
-    margin-left: 1em;
+    margin-top: 2em;
     line-height: 1em;
     color: darkolivegreen;
 }
@@ -99,7 +96,6 @@ h5 {
 
 ul {
     font-weight: normal;
-    margin-left: 10em;
     line-height: 1em;
     border-left: 100em;
     color: white;

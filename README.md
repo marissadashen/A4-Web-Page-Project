@@ -160,15 +160,15 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 # DIG IN!
 
-![Serving Dinner](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
+![Pork Xiao Long Bao]([https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg](https://cdn.phonebooky.com/blog/wp-content/uploads/2021/06/08192052/Xiao-Long-Bao-from-Din-Tai-Fung.jpg))
 
-![Family_eating_meal_together_skynesher_Getty_Images](https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
+![Choco Xiao Long Bao]([https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg](https://thspublications.com/wp-content/uploads/2019/04/mochixlb-900x886.png))
 
-![christmas dinner](https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg)
+![Salted Egg Yolk Bun]([https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg](http://images.summitmedia-digital.com/spotph/images/2018/04/16/goldenbunsmain.jpg))
 
-![family and friends dinner](https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg)
+![Pork & Shrimp Wonton]([https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg](https://www.dintaifungusa.com/us/image/1344))
 
 
-![TRUTHTV-family-with-kids-1024x576](https://user-images.githubusercontent.com/94158648/142270622-5e038caa-10f3-4cf9-80b0-0aaeee4fe47c.jpg)
+![Pork & Shrimp Siomai]([https://user-images.githubusercontent.com/94158648/142270622-5e038caa-10f3-4cf9-80b0-0aaeee4fe47c.jpg](https://www.dintaifungusa.com/us/image/1350))
 
 

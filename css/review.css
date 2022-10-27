@@ -51,7 +51,7 @@ h2.recipe {
 h2.reviews {
     font-size: 3em;
     font-weight: normal;
-    margin-left: 1em;
+    margin-top: 1em;
     line-height: 1em;
     color: darkgreen;
 }
@@ -77,6 +77,24 @@ h3.instructions {
     margin-left: 1em;
     line-height: 1em;
     color: darkolivegreen;
+}
+
+h3.owner {
+    color: darkgreen; 
+}
+
+h3 {
+    color: darkgreen; 
+
+}
+
+h4 {
+    margin-top: 4em;
+    color: darkgreen; 
+}
+
+h5 {
+    color: darkgreen;
 }
 
 ul {

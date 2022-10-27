@@ -1,11 +1,12 @@
 ### A4-Web-Page-Project
 Group 2 Assignment 4
 
-This web page shares reviews of some new restaurants that have recently opened. Everything from food quality to staff friendliness will be discussed.
+This web page shares reviews of some new restaraunts that have recently opened. Everything from food quality to staff friendliness will be discussed.
 We hope you enjoy reading our detailed reviews. 
 
 Bon Appetit!
 
+![image](https://user-images.githubusercontent.com/93103705/197274054-ef0b9a9f-4329-4a73-be4d-7ba98aa47e87.png)
 
 Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!  Smell the aroma, create taste to your liking, devour meals you love and enjoy! List of Ingredients and Instructions to create delicious meals all at your finger tips. Take a peek and put a touch or pinch of whatever to make it your very own :)
 
@@ -159,14 +160,15 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 # DIG IN!
 
-![image](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
+![Serving Dinner](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
 
-![image](https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
+![Family_eating_meal_together_skynesher_Getty_Images](https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
 
-![image](https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg)
+![christmas dinner](https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg)
 
-![image](https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg)
+![family and friends dinner](https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg)
 
-![image](https://user-images.githubusercontent.com/94158648/142270622-5e038caa-10f3-4cf9-80b0-0aaeee4fe47c.jpg)
+
+![TRUTHTV-family-with-kids-1024x576](https://user-images.githubusercontent.com/94158648/142270622-5e038caa-10f3-4cf9-80b0-0aaeee4fe47c.jpg)
 
 
